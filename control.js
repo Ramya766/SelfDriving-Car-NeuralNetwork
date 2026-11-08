@@ -26,7 +26,7 @@ console.log("Constructor called!");
                     break;
 
             }
-           console.table(this);
+          // console.table(this);
         };
 
          document.onkeyup=(event)=>{
@@ -45,7 +45,7 @@ console.log("Constructor called!");
                     break;
 
             }
-            console.table(this);
+            //console.table(this);
 
     };
 }
